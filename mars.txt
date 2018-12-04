@@ -5,6 +5,6 @@ Pro:
 
 
 Con:
-- Too red
+- Too blue
 - two moons
 - no animals, only robot
